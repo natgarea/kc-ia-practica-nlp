@@ -2,7 +2,7 @@
 
 Clasificación binaria de sentimientos en reviews de libros de Amazon.
 
-# Estructura del repositorio
+## Estructura del repositorio
 ```
 proyecto/
 ├── nlp_practica_ejercicio_1.ipynb     ← Descarga, balanceo de datos y EDA
